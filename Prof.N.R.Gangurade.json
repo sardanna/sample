@@ -1,0 +1,66 @@
+[
+  {
+    "DAYS": "10.15-11.05",
+    "MON": "EM-A",
+    "TUE": "",
+    "WED": "DIV-A  A3-PRACTICAL",
+    "THU": "",
+    "FRI": "EM-B"
+  },
+  {
+    "DAYS": "11.05-12.00",
+    "MON": "",
+    "TUE": "",
+    "WED": "DIV-A  A3-PRACTICAL",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.00-12.55",
+    "MON": "",
+    "TUE": "",
+    "WED": "LUNCH BREAK",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.45-01.40",
+    "MON": "",
+    "TUE": "",
+    "WED": "",
+    "THU": "",
+    "FRI": "DIV-F-PRACTICAL"
+  },
+  {
+    "DAYS": "01.40-02.35",
+    "MON": "",
+    "TUE": "",
+    "WED": "EM-B",
+    "THU": "",
+    "FRI": "DIV-F-PRACTICAL"
+  },
+  {
+    "DAYS": "02.35-03.10",
+    "MON": "",
+    "TUE": "",
+    "WED": "CLUB HOUR",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "03.10-04.05",
+    "MON": "",
+    "TUE": "EM-A",
+    "WED": "EM-A",
+    "THU": "",
+    "FRI": "DIV-A A2-PRACTICAL"
+  },
+  {
+    "DAYS": "04.05-05.00",
+    "MON": "",
+    "TUE": "",
+    "WED": "",
+    "THU": "EM-B",
+    "FRI": "DIV-A A2-PRACTICAL"
+  }
+]

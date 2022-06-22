@@ -1,0 +1,66 @@
+[
+  {
+    "DAYS": "10.15-11.05",
+    "MON": "F-CR5",
+    "TUE": "",
+    "WED": "",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "11.05-12.00",
+    "MON": "",
+    "TUE": "",
+    "WED": "",
+    "THU": "PBL-D1,D2",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.00-12.55",
+    "MON": "",
+    "TUE": "LUNCH BREAK",
+    "WED": "",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.45-01.40",
+    "MON": "EG-F1,F2",
+    "TUE": "EG-E2,E3",
+    "WED": "",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "01.40-02.35",
+    "MON": "EG-F1,F2",
+    "TUE": "EG-E2,E3",
+    "WED": "",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "02.35-03.10",
+    "MON": "",
+    "TUE": "",
+    "WED": "CLUB HOUR",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "03.10-04.05",
+    "MON": "",
+    "TUE": "PBL-C1,C2",
+    "WED": "EG-F1,F2",
+    "THU": "PBL-A1,A2",
+    "FRI": "EG-B2,B3"
+  },
+  {
+    "DAYS": "04.05-05.00",
+    "MON": "",
+    "TUE": "PBL-C1,C2",
+    "WED": "EG-F1,F3",
+    "THU": "PBL-A1,A3",
+    "FRI": "EG-B2,B4"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "DAYS": "10.15-11.05",
+    "MON": "EM-NRG",
+    "TUE": "BEE-GGA",
+    "WED": "CHEM-A1[SGS],BEE-A2[GGA],EM-A3[NRG]",
+    "THU": "CHEM-MAK",
+    "FRI": "CHEM-MAK"
+  },
+  {
+    "DAYS": "11.05-12.00",
+    "MON": "TUTOR MEET [A1-VPC],[A2-NRG]",
+    "TUE": "M-2-VPC",
+    "WED": "CHEM-A1[SGS],BEE-A2[GGA],EM-A3[NRG]",
+    "THU": "BEE-GGA",
+    "FRI": "EG-YRF"
+  },
+  {
+    "DAYS": "12.00-12.55",
+    "MON": "",
+    "TUE": "",
+    "WED": "LUNCH BREAK",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.45-01.40",
+    "MON": "M-2-VPC",
+    "TUE": "EG-A1&A2[YRF],PBL-A2&A3[PSG]",
+    "WED": "BEE-GGA",
+    "THU": "M-2-VPC",
+    "FRI": "CHEM-A3[SGS],BEE-A1[GGA],EM-A3[NRG]"
+  },
+  {
+    "DAYS": "01.40-02.35",
+    "MON": "ES",
+    "TUE": "EG-A1&A2[YRF],PBL-A2&A3[PSG]",
+    "WED": "EG-YRF",
+    "THU": "CHEM-MAK",
+    "FRI": "CHEM-A3[SGS],BEE-A1[GGA],EM-A3[NRG]"
+  },
+  {
+    "DAYS": "02.35-03.10",
+    "MON": "",
+    "TUE": "",
+    "WED": "RECESS",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "03.10-04.05",
+    "MON": "CHEM-A2[SGS],BEE-A3[GGA],EM-A1[NRG]",
+    "TUE": "EM-NRG",
+    "WED": "EM-NRG",
+    "THU": "EG-A2&A3[YRF],PBL-A1&A2[PSG]",
+    "FRI": "M-2-VPC"
+  },
+  {
+    "DAYS": "04.05-05.00",
+    "MON": "CHEM-A2[SGS],BEE-A3[GGA],EM-A1[NRG]",
+    "TUE": "M-2-VPC",
+    "WED": "ES",
+    "THU": "EG-A2&A3[YRF],PBL-A1&A2[PSG]",
+    "FRI": "CHEM-MAK"
+  }
+]
