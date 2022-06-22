@@ -1,0 +1,66 @@
+[
+  {
+    "DAYS": "10.15-11.05",
+    "MON": "",
+    "TUE": "",
+    "WED": "F-CR5",
+    "THU": "TUT-B-CR2",
+    "FRI": ""
+  },
+  {
+    "DAYS": "11.05-12.00",
+    "MON": "TUTOR MEET-A1",
+    "TUE": "TUT-A-CR1",
+    "WED": "B-CR2",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.00-12.55",
+    "MON": "",
+    "TUE": "",
+    "WED": "LUNCH BREAK",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "12.45-01.40",
+    "MON": "A-CR1",
+    "TUE": "",
+    "WED": "",
+    "THU": "A-CR1",
+    "FRI": "TUTOR MEET-F1"
+  },
+  {
+    "DAYS": "01.40-02.35",
+    "MON": "",
+    "TUE": "B-CR2",
+    "WED": "",
+    "THU": "TUT-F-CR1",
+    "FRI": "F-CR5"
+  },
+  {
+    "DAYS": "02.35-03.10",
+    "MON": "",
+    "TUE": "",
+    "WED": "CLUB HOUR",
+    "THU": "",
+    "FRI": ""
+  },
+  {
+    "DAYS": "03.10-04.05",
+    "MON": "B-CR2",
+    "TUE": "F-CR5",
+    "WED": "",
+    "THU": "B-CR2",
+    "FRI": "A-CR1"
+  },
+  {
+    "DAYS": "04.05-05.00",
+    "MON": "F-CR5",
+    "TUE": "A-CR1",
+    "WED": "",
+    "THU": "",
+    "FRI": ""
+  }
+]
